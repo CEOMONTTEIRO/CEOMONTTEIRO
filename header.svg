@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mateus Monteiro Ramos — Desenvolvedor Fullstack Jr.</title>
+  <desc id="desc">Banner pessoal em preto, branco e ciano. Código, design e visão de produto.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10191B"/>
+      <stop offset="1" stop-color="#070C0E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="1010" y1="50" x2="1370" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73DECC"/>
+      <stop offset="1" stop-color="#53C3B1"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#53C3B1" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1440" height="500" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1440" height="500" fill="url(#bg)"/>
+    <rect width="1440" height="500" fill="url(#grid)"/>
+    <path d="M0 0H1440" stroke="#53C3B1" stroke-width="6"/>
+    <circle cx="1282" cy="247" r="239" stroke="#53C3B1" stroke-opacity=".13"/>
+    <circle cx="1282" cy="247" r="174" stroke="#53C3B1" stroke-opacity=".12" stroke-dasharray="4 10"/>
+    <path d="M1008 412V120L1144 280L1280 120V412" stroke="url(#accent)" stroke-width="42" stroke-linejoin="round" stroke-linecap="square"/>
+    <path d="M1058 412V255L1144 357L1230 255V412" stroke="#F2F2EC" stroke-opacity=".12" stroke-width="2"/>
+    <rect x="1075" y="48" width="142" height="34" rx="17" fill="#53C3B1" fill-opacity=".1" stroke="#53C3B1" stroke-opacity=".35"/>
+    <text x="1146" y="70" text-anchor="middle" fill="#85D9CB" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="1.1">FULLSTACK</text>
+    <circle cx="1393" cy="36" r="5" fill="#53C3B1"/>
+    <path d="M1040 451H1380" stroke="#53C3B1" stroke-opacity=".25"/>
+    <text x="1381" y="477" text-anchor="end" fill="#66817D" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2">IDEIA → INTERFACE → PRODUTO</text>
+    <rect x="65" y="61" width="7" height="20" rx="2" fill="#53C3B1"/>
+    <text x="89" y="77" fill="#8ED8CC" font-family="DejaVu Sans Mono,monospace" font-size="17" letter-spacing="2.2">@CEOMONTTEIRO</text>
+    <text x="61" y="198" fill="#F5F5EF" font-family="DejaVu Sans,Arial,sans-serif" font-size="85" font-weight="700" letter-spacing="-4">Mateus</text>
+    <text x="61" y="290" fill="#F5F5EF" font-family="DejaVu Sans,Arial,sans-serif" font-size="85" font-weight="700" letter-spacing="-4">Monteiro<tspan fill="#53C3B1">.</tspan></text>
+    <text x="66" y="344" fill="#53C3B1" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="500">Desenvolvedor Fullstack Jr.</text>
+    <path d="M66 386H866" stroke="#D3E7E3" stroke-opacity=".14"/>
+    <text x="66" y="429" fill="#ABBDBA" font-family="DejaVu Sans,Arial,sans-serif" font-size="23">Código, design e visão de produto.</text>
+  </g>
+</svg>
