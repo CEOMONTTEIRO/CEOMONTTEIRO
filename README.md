@@ -1,4 +1,4 @@
-[![Mateus Monteiro — código, design e visão de produto](./profile-banner.svg)](https://ceomontteiro.github.io/)
+[![Mateus Monteiro — código, design e visão de produto](./profile-banner-dark.svg)](https://ceomontteiro.github.io/)
 
 ## Olá, sou o Mateus.
 
